@@ -5,4 +5,7 @@ describe("Test for addition", () => {
   it("should add 2 numbers", () => {
     expect(5).toBe(add(2, 3));
   });
+  it("should return undefined", () => {
+    expect(NaN).toBe(add());
+  });
 });
