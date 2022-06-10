@@ -1,0 +1,15 @@
+{
+  "name": "js-testing-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:watch": "vitest"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.14.1"
+  }
+}
